@@ -1,0 +1,24 @@
+{
+  "name": "tau-advanced-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-ui-report": " npx playwright show-report",
+    "test-ui-chin-api": "npx playwright test tests/ui/specs/book-with-fixture-and-api* --project=chromium",
+    "test-ui-c": "npx playwright test tests/ui/specs/ --project=chromium",
+    "test-ui-h": "npx playwright test tests/ui/specs/ --headed",
+    "test-ui-auth-admin": "npx playwright test profile-stored-auth-multi-role-admin.spec.js --headed --project=chromium-auth ",
+    "test-ui-auth-user": "npx playwright test profile-stored-auth-multi-role-user.spec.js --headed --project=chromium-auth ",
+    "test-ui-auth": "npx playwright test profile-stored-auth-multi-role-example.spec.js --headed --project=chromium-auth ",
+    "test-vrt": "npx playwright test visual-regression.spec.js --project=chromium --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-playwright": "^1.24.0",
+    "@playwright/test": "^1.41.1",
+    "dotenv": "^16.4.2"
+  }
+}

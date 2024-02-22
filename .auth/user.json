@@ -1,0 +1,424 @@
+{
+  "cookies": [
+    {
+      "name": "_gid",
+      "value": "GA1.2.68412662.1708471523",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1708557922,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-109033876-1",
+      "value": "1",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1708471582,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cc_dc",
+      "value": "0",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1731798658.797275,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "34c8508a057a6cd5a08e73c8ac95dc20",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1731798658.797471,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "34c8508a057a6cd5a08e73c8ac95dc20",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1731799523,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "value": "1709076325917",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1709076326,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId",
+      "value": "22dbee274e3e77ce8b5d36f88d60185ca02c519a5bc12147ff0c3356fd46d474",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1709076326,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaIdType",
+      "value": "panoDevice",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1709076326,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.254354038.1708471523",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1743031524.413556,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_MVRXK93D28",
+      "value": "GS1.1.1708471524.1.0.1708471524.60.0.0",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1743031524.744162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUnynmN5Y-gcjqhmOzBvOByvR-LG0nvuwNNNYC5j28Em8RlM962lFo0SylUzEw8",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1743031524.878411,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gads",
+      "value": "ID=851589f6308971fa:T=1708471525:RT=1708471525:S=ALNI_MZzFCQF-sRlRxCTGmu_c6lMH70iVg",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1742167525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=00000dc31156731e:T=1708471525:RT=1708471525:S=ALNI_MZXVqjzhXx7DOR2mtfzgEBA1FYVWg",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1742167525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=c5fae1dfe57cac7d:T=1708471525:RT=1708471525:S=AA-AfjYXc8jDjcGMXpF6A7dZMDDC",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1724023525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CMID",
+      "value": "ZdU059HM66YAAGsjADM-ngAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1740007525.064817,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "1324",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1716247524.929033,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "1324",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1716247525.064946,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "qFBAcCl8nlW9z08BbS0lIC9hN7Jry3HLepF8yLttnt1zcloF4td9OPlZhg3L0Y7PLM_jmhuBHR2OmWECOL1O9FooHfnPPOuQjvaMLBu05cg.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1716247524.984701,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1743031524.984877,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "4082439223644640442",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1716247524.98494,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M41.D>6NRF']wIg2E?kt$jV/!]tbPl1M>e)ZlrFUfJ+tGXxp$?77fe@f)-6MV_vO9#/QO>X0VfOz!?LA7][N3If)y3KL9D3I?+g6z?0'",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1716247524.984829,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "value": "3175328367217291034595",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1716247525.242451,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KTPCACOOKIE",
+      "value": "YES",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1708557925.19222,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tracker",
+      "value": "%7B%22UUID%22%3A%2215744061-1703-469D-0A86-E6344E85D1C6%22%7D",
+      "domain": ".travelaudience.com",
+      "path": "/",
+      "expires": 1742513124.209989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KADUSERCOOKIE",
+      "value": "E05FDA0B-494C-444F-8432-0F9BBF01F85E",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1740007525.251635,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANON_ID",
+      "value": "aqntuJmMZaE8DXqwmMRTRfyOPyMFqMMomOEkrnx8EE9TdF6XYGqySHXKpiRZa3NwZdHLZaWZdwv5ddg3se2YtG5AywmaZa",
+      "domain": ".tribalfusion.com",
+      "path": "/",
+      "expires": 1716247525.294225,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1724023526.356261,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCNEC",
+      "value": "%5B%5B%22AKsRol-oFl2xc_PjQW5qS7Bdv-mMgrby4lVIDSwHshOdts-phEnUHB9z_C_YYd8sZG4T3LQ7UtqpqQ6dP6pjQNLHzJ8HlVnbJCTeK0RpgQmFFSyoELYFQAXIRZS-bLNJdxOT2GZQhwzyBc69RD6tPTwQIICPkZRrQg%3D%3D%22%5D%5D",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1740007525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6InRhdS11c2VyIiwicGFzc3dvcmQiOiJUZXN0aW5nV2l0aFIzbkB0QCIsImlhdCI6MTcwODQ3MTUyOH0.2m5aCeH-LEoFlC3MxAOSkf7wCz3mdgtZyCQ9peW3xis",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "expires",
+      "value": "2024-02-27T23%3A25%3A28.971Z",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userID",
+      "value": "1117e3d4-9f6e-45a7-a8a9-db3ecf7b9603",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userName",
+      "value": "tau-user",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demoqa.com",
+      "localStorage": [
+        {
+          "name": "panoramaId",
+          "value": "22dbee274e3e77ce8b5d36f88d60185ca02c519a5bc12147ff0c3356fd46d474"
+        },
+        {
+          "name": "totalCalls",
+          "value": "0"
+        },
+        {
+          "name": "totalCallsTimeout",
+          "value": "0"
+        },
+        {
+          "name": "_cc_id",
+          "value": "34c8508a057a6cd5a08e73c8ac95dc20"
+        },
+        {
+          "name": "_GESPSK-crwdcntrl.net",
+          "value": "[\"crwdcntrl.net\",\"22dbee274e3e77ce8b5d36f88d60185ca02c519a5bc12147ff0c3356fd46d474\",1708471523810,null,null,null,null,null,0]"
+        },
+        {
+          "name": "_GESPSK-33across.com",
+          "value": "[\"33across.com\",null,1708471523293,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-pubcid.org",
+          "value": "[\"pubcid.org\",null,1708471523695,null,null,null,null,null,0,[106]]"
+        },
+        {
+          "name": "33acrossId_csti",
+          "value": ",,"
+        },
+        {
+          "name": "panoramaIdType_exp",
+          "value": "1709076325917"
+        },
+        {
+          "name": "__VASTUtil__",
+          "value": "__VASTUtil__"
+        },
+        {
+          "name": "lastSuccessfullAd",
+          "value": "0"
+        },
+        {
+          "name": "panoramaId_exp",
+          "value": "1709076325917"
+        },
+        {
+          "name": "_cc_id_update_ts",
+          "value": "1708471523803"
+        },
+        {
+          "name": "panoramaId_expiry",
+          "value": "1709076325917"
+        },
+        {
+          "name": "panoramaId_expiry_exp",
+          "value": "1709076325917"
+        },
+        {
+          "name": "_GESPSK-esp.criteo.com",
+          "value": "[\"esp.criteo.com\",null,1708471523294,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-rtbhouse",
+          "value": "[\"rtbhouse\",null,1708471523720,null,null,null,null,null,0,[106]]"
+        },
+        {
+          "name": "_GESPSK-openx",
+          "value": "[\"openx\",null,1708471523717,null,null,null,null,null,0,[111]]"
+        },
+        {
+          "name": "_GESPSK-uidapi.com",
+          "value": "[\"uidapi.com\",null,1708471523294,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-id5-sync.com",
+          "value": "[\"id5-sync.com\",null,1708471524083,null,null,null,null,null,0,[106]]"
+        },
+        {
+          "name": "panoramaIdType",
+          "value": "panoDevice"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1708471526363"
+        }
+      ]
+    }
+  ]
+}
