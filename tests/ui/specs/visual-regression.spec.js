@@ -68,7 +68,7 @@ test.afterAll(async () => {
   console.log('Visual test results', results);
 });
 
-test.describe.skip('Visual Regression', () => {
+test.describe('Visual Regression', () => {
 
 
   test('Profile Page and Swagger Page', async ({ page }) => {
