@@ -10,10 +10,10 @@ async function globalSetup(config) {
 
   const user = process.env.USER;
   const password = process.env.PASSWORD;
-  console.log(`Local Env Username: ${user}`);
-  console.log(`Local Env  Password: ${password}`);
+  //console.log(`Local Env Username: ${user}`);
+  //console.log(`Local Env  Password: ${password}`);
   const { baseURL, storageState } = config.projects[0].use;
-  const browser = await chromium.launch({ headless: true, timeout: 10000 });
+  const browser = await chromium.launch();
   const page = await browser.newPage();
   const loginPage = new LoginPage(page);
 
